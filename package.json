@@ -1,0 +1,11 @@
+{
+  "name": "math-sofiane",
+  "version": "1.0.0",
+  "description": "موقع رياضيات أستاذ سفيان — الثانوي الجزائري",
+  "scripts": {
+    "build": "node generate-manifest.js",
+    "dev": "node generate-manifest.js && echo 'open index.html in browser'"
+  },
+  "author": "أستاذ سفيان",
+  "license": "MIT"
+}
